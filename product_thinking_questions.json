@@ -1,5 +1,5 @@
 {
-  "week1": {
+  "theme1": {
     "theme": "用户洞察 & 需求分析",
     "questions": [
       {
@@ -32,7 +32,7 @@
       }
     ]
   },
-  "week2": {
+  "theme2": {
     "theme": "业务逻辑 & 指标思维",
     "questions": [
       {
@@ -65,7 +65,7 @@
       }
     ]
   },
-  "week3": {
+  "theme3": {
     "theme": "产品设计 & MVP 思维",
     "questions": [
       {
@@ -98,7 +98,7 @@
       }
     ]
   },
-  "week4": {
+  "theme4": {
     "theme": "技术理解 & 产品叙事",
     "questions": [
       {
